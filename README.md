@@ -2,6 +2,10 @@
 
 > 在 WSL 中通过 QQ 远程操控 Hermes Agent 的完整方案。
 
+## Quickstart
+
+直接将本项目的git链接发给agent，让它自己根据经验总结完成部署(ps：其实这个项目全程也是靠agent自己写好的)。其他环境或者不同的agent，本项目或许也能有一定参考作用，但接入agnet的对话部分会有所区别。
+
 ## 这是什么
 
 这是一个将 **QQ**（通过 NapCat / OneBot v11 协议）接入 **Hermes Agent** 的桥接方案。你可以在手机 QQ 上直接与 Hermes Agent 对话，Agent 保持完整上下文，支持工具调用、代码执行等全部能力——就像在终端里用 Hermes 一样。
