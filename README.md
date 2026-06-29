@@ -228,7 +228,7 @@ tar xzf wsl-messaging-bridge-skill-backup.tar.gz -C ~/.hermes/skills/software-de
 10. **NapCat GPU 进程 crash**（`--disable-zygote --in-process-gpu` 修复）
 11. **Hermes API 响应格式不匹配**（`/list` 返回空）
 12. 确认消息应包含 Session ID
-13. 调试时不要读 Hermes 底层源码（会爆上下文）
+
 
 ## 技术栈
 
